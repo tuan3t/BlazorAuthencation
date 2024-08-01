@@ -1,0 +1,11 @@
+D:\Coding_Document\ASP.NET Core\Project\BlazorAuthencation\Shared\bin\Debug\net7.0\BlazorAuthencation.Shared.deps.json
+D:\Coding_Document\ASP.NET Core\Project\BlazorAuthencation\Shared\bin\Debug\net7.0\BlazorAuthencation.Shared.dll
+D:\Coding_Document\ASP.NET Core\Project\BlazorAuthencation\Shared\bin\Debug\net7.0\BlazorAuthencation.Shared.pdb
+D:\Coding_Document\ASP.NET Core\Project\BlazorAuthencation\Shared\obj\Debug\net7.0\BlazorAuthencation.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding_Document\ASP.NET Core\Project\BlazorAuthencation\Shared\obj\Debug\net7.0\BlazorAuthencation.Shared.AssemblyInfoInputs.cache
+D:\Coding_Document\ASP.NET Core\Project\BlazorAuthencation\Shared\obj\Debug\net7.0\BlazorAuthencation.Shared.AssemblyInfo.cs
+D:\Coding_Document\ASP.NET Core\Project\BlazorAuthencation\Shared\obj\Debug\net7.0\BlazorAuthencation.Shared.csproj.CoreCompileInputs.cache
+D:\Coding_Document\ASP.NET Core\Project\BlazorAuthencation\Shared\obj\Debug\net7.0\BlazorAuthencation.Shared.dll
+D:\Coding_Document\ASP.NET Core\Project\BlazorAuthencation\Shared\obj\Debug\net7.0\refint\BlazorAuthencation.Shared.dll
+D:\Coding_Document\ASP.NET Core\Project\BlazorAuthencation\Shared\obj\Debug\net7.0\BlazorAuthencation.Shared.pdb
+D:\Coding_Document\ASP.NET Core\Project\BlazorAuthencation\Shared\obj\Debug\net7.0\ref\BlazorAuthencation.Shared.dll

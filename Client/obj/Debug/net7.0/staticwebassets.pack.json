@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Coding_Document\\ASP.NET Core\\Project\\BlazorAuthencation\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Coding_Document\\ASP.NET Core\\Project\\BlazorAuthencation\\Client\\obj\\Debug\\net7.0\\compressed\\66c4y4ht2h.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Coding_Document\\ASP.NET Core\\Project\\BlazorAuthencation\\Client\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorAuthencation.Client.styles.css",
+      "PackagePath": "staticwebassets\\BlazorAuthencation.Client.styles.css"
+    },
+    {
+      "Id": "D:\\Coding_Document\\ASP.NET Core\\Project\\BlazorAuthencation\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Coding_Document\\ASP.NET Core\\Project\\BlazorAuthencation\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Coding_Document\\ASP.NET Core\\Project\\BlazorAuthencation\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Coding_Document\\ASP.NET Core\\Project\\BlazorAuthencation\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Coding_Document\\ASP.NET Core\\Project\\BlazorAuthencation\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Coding_Document\\ASP.NET Core\\Project\\BlazorAuthencation\\Client\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "D:\\Coding_Document\\ASP.NET Core\\Project\\BlazorAuthencation\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Coding_Document\\ASP.NET Core\\Project\\BlazorAuthencation\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\Coding_Document\\ASP.NET Core\\Project\\BlazorAuthencation\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\Coding_Document\\ASP.NET Core\\Project\\BlazorAuthencation\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\Coding_Document\\ASP.NET Core\\Project\\BlazorAuthencation\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\Coding_Document\\ASP.NET Core\\Project\\BlazorAuthencation\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\Coding_Document\\ASP.NET Core\\Project\\BlazorAuthencation\\Client\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Coding_Document\\ASP.NET Core\\Project\\BlazorAuthencation\\Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\Coding_Document\\ASP.NET Core\\Project\\BlazorAuthencation\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazorAuthencation.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlazorAuthencation.Client.props",
+      "PackagePath": "build\\BlazorAuthencation.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorAuthencation.Client.props",
+      "PackagePath": "buildMultiTargeting\\BlazorAuthencation.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlazorAuthencation.Client.props",
+      "PackagePath": "buildTransitive\\BlazorAuthencation.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
